@@ -4,6 +4,7 @@ Section: python
 Priority: optional
 Build-Depends:
     debhelper (>= 9),
+    sphinx-common,
     python-all,
     python3-all,
     python-setuptools,
